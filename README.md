@@ -23,4 +23,4 @@ The scraped information was stored in the specified Python data structure—spec
         -- Which month, on average, has the lowest temperature? The highest? 
         -- Which month, on average, has the lowest atmospheric pressure? The highest? 
         -- How many terrestrial days exist in a Martian year? A visual estimate within 25% was made. 
-- The DataFrame was exported into a CSV fil
+- The DataFrame was exported into a CSV file
