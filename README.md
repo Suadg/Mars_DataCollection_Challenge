@@ -5,7 +5,9 @@
 
 # Objective
 
-#Part 1: Scrape Titles and Preview Text from Mars News (40 points)
+#Part 1: 
+
+Scrape Titles and Preview Text from Mars News (40 points)
 Automated browsing (with Splinter) was used to visit the Mars news site, and the HTML code was extracted (with Beautiful Soup).
 
 The titles and preview text of the news articles were scraped and extracted. 
