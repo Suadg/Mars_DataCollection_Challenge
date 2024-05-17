@@ -27,11 +27,11 @@
 
 # Part 1 Mars News solutions 
 
-https://github.com/Suadg/Mars_DataCollection_Challenge/blob/d90594843fef34b8a81f6e04c176a25b1d8d62c3/mars_news_solutions.ipynb
+<https://github.com/Suadg/Mars_DataCollection_Challenge/blob/d90594843fef34b8a81f6e04c176a25b1d8d62c3/mars_news_solutions.ipynb>
 
 # Part 2 Mars Weather solutions 
 
-https://github.com/Suadg/Mars_DataCollection_Challenge/blob/d90594843fef34b8a81f6e04c176a25b1d8d62c3/mars_weather_solutions.ipynb
+<https://github.com/Suadg/Mars_DataCollection_Challenge/blob/d90594843fef34b8a81f6e04c176a25b1d8d62c3/mars_weather_solutions.ipynb>
 
 Tools used include: 
 Python libraries, Splinter, Selenium, Chrome DevTools, conda, and more...
